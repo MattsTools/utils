@@ -1,2 +1,3 @@
-# utils
-Bits and bobs
+# Utils
+
+Handy functions for here and there
